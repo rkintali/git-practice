@@ -12,7 +12,7 @@ public class App
         // feature one's focus is more on elaborate documentation.
         System.out.println( "This line is introduced in feature 1 branch" );
     }
-    private void renameToMergeConflict(){
-    	System.out.println("Feature 2 method");
+    private void changeMethodName(){
+    	System.out.println("Method name changed in the git repository");
     }
 }
