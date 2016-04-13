@@ -10,4 +10,7 @@ public class App
     {
         System.out.println( "Hello World!123" );
     }
+    private void feature2Method(){
+    	System.out.println("Feature 2 method");
+    }
 }
