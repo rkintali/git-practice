@@ -14,7 +14,8 @@ public class App
     }
 
     private void mergeMethod(){
-    	System.out.println("Feature 2 method");
+    	System.out.println("Try fetch and then merge");
+    	
     }
 
     private void changeMethodName(){
