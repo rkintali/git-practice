@@ -15,9 +15,13 @@ public class App
 
     private void mergeMethod(){
 
+
     	System.out.println("Feature 2 method - see how this line goes");
 
     	System.out.println("Try fetch and then merge");
+
+    	System.out.println("Try fetch and then merge-2");
+
     	
 
     }
