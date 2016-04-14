@@ -14,7 +14,7 @@ public class App
     }
 
     private void mergeMethod(){
-    	System.out.println("Try fetch and then merge");
+    	System.out.println("Try fetch and then merge-2");
     	
     }
 
