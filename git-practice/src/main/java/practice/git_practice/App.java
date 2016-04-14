@@ -14,7 +14,7 @@ public class App
     }
 
     private void mergeMethod(){
-    	System.out.println("Feature 2 method");
+    	System.out.println("Feature 2 method - see how this line goes");
     }
 
     private void changeMethodName(){
