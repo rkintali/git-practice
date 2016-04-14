@@ -8,7 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!123" );
+        System.out.println( "Hello new " );
         // feature one's focus is more on elaborate documentation.
         System.out.println( "This line is introduced in feature 1 branch" );
     }
